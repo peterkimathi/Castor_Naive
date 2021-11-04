@@ -28,7 +28,7 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 
 
 
-#Comparison between Bayesian naive classification with logistic regression
+# Comparison between Bayesian naive classification with logistic regression
 
 |	Bayesian naive|logistic regression|	
 |--------------|---------------|
