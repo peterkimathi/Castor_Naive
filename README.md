@@ -33,5 +33,5 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 |	Bayesian naive|logistic regression|	
 |--------------|---------------|
 |Both for classification Problems| Both for Classification Problems |
-|Predition is poor when the features are dependent as the model assumes that all the features are conditionally independent |Performs wells even if the features are depended as the features are splitted linearly|
+|Assumes conditional independence of features hence not appropriate when features are dependent |Features are splitted linearly hence performs optimally when some features are dependent|
 |Model the joint distribution of feature and target and predicts the posterior | Directly models the posterior regression of input against output and minimizing the errors|
