@@ -8,5 +8,6 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 
 |	Bayesian naive|logistic regression|	
 |--------------|---------------|
-|Used for classification|
-|--------------|---------------|
+|Used for classification| Used for Classification |
+|Model the joint distribution of feature and target and predicts the posterior | Directly models the posterior regression of input against output and minimizing the errors|
+
