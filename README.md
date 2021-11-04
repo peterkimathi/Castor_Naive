@@ -23,8 +23,8 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 |HIV-1_U  |     0.00   |   0.00  |    0.00  |       1|
 |         |             |         |         |         |
 |accuracy  |                    |    0.92  |      50|
-|macro avg  |     0.44   |   0.50  |    0.46  |      50|
-|weighted avg |      0.91  |    0.92 |      0.91 |       50|
+|macro avg  |     0.44   |   0.50  |    0.46  |     50|
+|weighted avg |      0.91  |    0.92 |      0.91 |     50|
 
 
 
