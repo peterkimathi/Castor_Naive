@@ -1,6 +1,10 @@
 # Using CASTOR for Virus Classification
-
-We
+We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dataset.
+* Link to Los Alamos HIV Databases https://www.hiv.lanl.gov/content/index
+* Link to Gene Cutter for Extracting POL
 
 
 #Comparison between Bayesian naive classification with logistic regression
+
+|	Bayesian naive|logistic regression|	
+|--------------|---------------|
