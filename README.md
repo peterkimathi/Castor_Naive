@@ -4,7 +4,7 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 * Link to Gene Cutter for Extracting POL https://www.hiv.lanl.gov/content/sequence/HIV/mainpage.html
 * To run the script, type the following
 * python run_all.py
-
+* When prompted, select option 1, then 2, then 3 and finally four.
 
 #Comparison between Bayesian naive classification with logistic regression
 
