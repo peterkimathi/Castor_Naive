@@ -6,7 +6,7 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 * python run_all.py
 * When prompted, select option 1, then 2, then 3 and finally four.
 
-# Classification Results 
+# Castor Classification Results 
 |Subtype| precision |   recall  |f1-score  | support|
 |-----------|-----------|-----------|-----------|-----------|
 |HIV-1_01B  |     0.00 |     0.00  |    0.00  |       1|
