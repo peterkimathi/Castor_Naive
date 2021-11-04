@@ -34,8 +34,7 @@ def create_fasta(dat, out):
 		fin.write(SEQ+"\n")
 	fin.close()
 
-##Call the function to create the output files
-
 create_fasta(training_data, "input/training_data.fasta")
 create_fasta(testing_data, "input/testing_data.fasta")
+#Run CASTOR with default parameters in the config file
 os.system("python main.py configuration_file.ini")
