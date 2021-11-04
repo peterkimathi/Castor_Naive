@@ -7,7 +7,7 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 * When prompted, select option 1, then 2, then 3 and finally four.
 
 # Classification Results 
-| precision |   recall  |f1-score  | support|
+|Subtype| precision |   recall  |f1-score  | support|
 |-----------|-----------|-----------|-----------|
 |HIV-1_01B  |     0.00 |     0.00  |    0.00  |       1|
 |HIV-1_01_AE |      1.00 |     1.00 |     1.00 |        9|
@@ -22,7 +22,7 @@ We used Los Alamos to download the HIV data, and Gene Cutter to retreive POL dat
 |HIV-1_G  |     0.00  |    0.00  |    0.00 |        0|
 |HIV-1_U  |     0.00   |   0.00  |    0.00  |       1|
 |         |             |         |         |         |
-|accuracy  |                    |    0.92  |      50|
+|accuracy  |             |       |    0.92  |      50|
 |macro avg  |     0.44   |   0.50  |    0.46  |     50|
 |weighted avg |      0.91  |    0.92 |      0.91 |     50|
 
